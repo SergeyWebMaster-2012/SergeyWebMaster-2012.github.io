@@ -6,4 +6,4 @@
 
 [ссылка] (описание)
 
-[https://sergeywebmaster-2012.github.io/01 20social_icons] ("описание-кнопки социальных сетей")
+[https://sergeywebmaster-2012.github.io/01%20social_icons] ("описание-кнопки социальных сетей")
